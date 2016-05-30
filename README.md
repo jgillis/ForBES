@@ -15,7 +15,7 @@ to download it as a zip archive and decompress the archive. Then move with the M
 the directory of ForBES, and execute the following command:
 
 ```
-> setup_forbes
+> forbes_setup
 ```
 
 This will compile all the necessary source files and install the directory into MATLAB's path.
